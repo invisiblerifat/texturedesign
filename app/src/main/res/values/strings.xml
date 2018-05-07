@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SAJABO</string>
+    <string name="no_label"></string>
+    <string name="search_hint">Search</string>
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishin
+    </string>
+    <string name="title_activity_transport">TransportActivity</string>
+</resources>
